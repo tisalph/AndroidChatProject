@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidRESTProject</string>
+    <string name="title">(Android WebSockets Chat App)</string>
+    <string name="author_name">By Tapshil Desai</string>
+    <string name="author_url">www.thezenith.com</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+</resources>
